@@ -1,2 +1,17 @@
 # face_detection
-This is a face detection classifier which detects the face in a image or a video.
+
+I made a face detection classifier which detects the face and differentiates it by forming a rectangualr block.
+
+-Language used-Python
+
+-Tools used-OpenCV
+
+I have tried to explain the objects I used in the OpenCV libray with comments
+
+If you are not working on a online platform then you need to install OpenCV using pip-
+
+Here's the command you need to run to install this libray-
+
+pip install opencv-python 
+
+After this you should be good to run the code.
