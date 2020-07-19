@@ -15,6 +15,6 @@ Here's the command you need to run to install this libray-
 pip install opencv-python 
 
 You also need to have the haarcascade frontal face default xml file which is a file which contains all the features of a face it is provided by OpenCv. 
-You will find the file in this repositry.
+You will find the file in this repository.
 
 After this you should be good to run the code.
