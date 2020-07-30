@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
+#face detection program
 
 
 import cv2
@@ -23,7 +20,6 @@ cap.release() #video closed
 cv2.destroyAllWindows()#destroys all the running windows
 
 
-# In[ ]:
 
 
 
